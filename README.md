@@ -3,7 +3,7 @@
 ### During class you will be building **TWO** React apps...
 
 The **FIRST** will be a **BLOG APP** that you build while working through the class textbook.
-The blog app you will create completely from scratch following the book instructions.  _You should keep your work for the blog app in a separate repository._  
+The blog app you will create completely from scratch following the book instructions.  _You should keep your work for the blog app in a separate repository. You will NOT be submitting this app._  
 
 The **SECOND** will be a **TO-DO LIST APP** that you will build as extra coding practice during your coding assignments throughout the class. This will be the app that you include in your weekly lesson submissions.  
 
